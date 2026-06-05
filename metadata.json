@@ -1,0 +1,6 @@
+{
+  "name": "Plateforme Humanitaire Internationale de Collecte de Fonds",
+  "description": "Une plateforme humanitaire moderne, immersive et professionnelle dédiée à la collecte de fonds internationale pour soutenir les causes médicales, handicapées, âgées et d'urgence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
